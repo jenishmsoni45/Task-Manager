@@ -1,6 +1,8 @@
 # Task-Manager
 
-This is a simple task manager that allows users to add, edit, view, complete, and delete tasks. Tasks can be organized by category and sorted by priority or deadline.
+- This is an Interactive Task Manager built in Python, utilizing the rich library for creating beautiful and dynamic terminal-based interfaces. The app allows you to efficiently manage your tasks, including adding, viewing, completing, deleting, editing, and searching tasks.
+
+- The rich library enhances the user experience with color, formatting, and interactive elements, making task management both functional and visually appealing.
 
 ## Features
 
