@@ -13,6 +13,11 @@
 - Sort tasks by deadline, priority, or name.
 - View a detailed list of all tasks.
 
+## Task Storage
+
+- Tasks are stored in a JSON file (tasks.json), which contains a list of tasks in JSON format. This file is automatically updated whenever you add, edit, delete, or complete a task. The structure of the tasks.json file allows for easy retrieval and manipulation of task data.
+- Tasks are stored in an array, making it easy to add new tasks and update existing ones.
+
 ## Installation
 
 1. Clone the repository:
